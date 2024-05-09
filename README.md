@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+My name is Biruk, and I am a data scientist and analyst interested in learning more about data science and machin learning!
+
 🔭 I’m currently working on several data analysis and machine learning projects.
 - 🌱 I’m currently learning neural network like CNN, RNN, LLM etc.
 - 👯 I’m looking to collaborate on machine learning projects.
