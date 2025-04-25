@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-My name is Biruk, and I am a data scientist and analyst interested in learning more about database engineering, data science and machine learning!
+My name is Biruk, and I am a data scientist and analyst interested in learning about Machine Learning, AI and data engineering!
 
-🔭 I’m currently working on several data analysis and machine learning projects.
+🔭 I’m currently working on several machine learning and data analysis projects.
 - 🌱 I’m currently learning neural network like CNN, RNN, LLM etc.
 - 👯 I’m looking to collaborate on machine learning projects.
 - 💬 Ask me about anything.
