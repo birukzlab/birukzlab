@@ -5,7 +5,7 @@ My name is Biruk, and I am an AI Engineer focused on building AI agents and prac
 * 🔭 Currently building ML + data products and shipping small AI apps end-to-end
 * 🌱 Learning deep learning and modern LLM stacks (CNNs, RNNs, Transformers/LLMs, RAG, agents)
 * 👯 Open to collaborating on agentic workflows, ML pipelines, and applied NLP projects
-*💬 Ask me about Python, SQL, ML, dashboards (Power BI), and turning ideas into MVPs
+* 💬 Ask me about Python, SQL, ML, dashboards (Power BI), and turning ideas into MVPs
 
 Always learning, always building
 -->
