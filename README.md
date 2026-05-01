@@ -15,7 +15,7 @@ I enjoy building tools that connect business needs with technical solutions — 
 ### 🛠️ Skills & Tools
 
 **Business / Product:**  
-Requirements gathering, user stories, acceptance criteria, UAT support, workflow analysis, documentation, stakeholder communication
+Requirements gathering, user stories, workflow analysis, documentation, reporting, KPI, dashboard
 
 **Data / Analytics:**  
 SQL, Power BI, Excel, data validation, dashboard development, semantic models, reporting logic, data quality checks
