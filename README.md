@@ -1,13 +1,43 @@
 ### Hi there 👋
 
-My name is Biruk, and I am an AI Engineer focused on building AI agents and practical machine learning solutions.
+My name is Biruk, and I’m a Business Intelligence / Business Analyst with a strong interest in AI, data products, and practical automation.
 
-* 🔭 Currently building ML + data products and shipping small AI apps end-to-end
-* 🌱 Learning deep learning and modern LLM stacks (CNNs, RNNs, Transformers/LLMs, RAG, agents)
-* 👯 Open to collaborating on agentic workflows, ML pipelines, and applied NLP projects
-* 💬 Ask me about Python, SQL, ML, dashboards (Power BI), and turning ideas into MVPs
+I enjoy building tools that connect business needs with technical solutions — from gathering requirements and validating data to creating dashboards, testing workflows, and shipping small AI-powered applications.
 
-Always learning, always building
+### 🔭 What I’m focused on
+
+- Building practical AI and data tools end-to-end
+- Turning business problems into clear requirements, user stories, and working solutions
+- Using SQL, Python, and Power BI to validate data, automate workflows, and support decision-making
+- Exploring LLMs, RAG, AI agents, and applied machine learning
+- Improving documentation, testing, and release readiness for technical projects
+
+### 🛠️ Skills & Tools
+
+**Business / Product:**  
+Requirements gathering, user stories, acceptance criteria, UAT support, workflow analysis, documentation, stakeholder communication
+
+**Data / Analytics:**  
+SQL, Power BI, Excel, data validation, dashboard development, semantic models, reporting logic, data quality checks
+
+**Technical:**  
+Python, FastAPI, APIs, Git/GitHub, basic cloud deployment, AI/LLM workflows, RAG, agents
+
+### 🚀 Projects I’m building
+
+I use GitHub to practice and share projects that combine data, AI, and real-world business use cases, including:
+
+- AI-powered apps and MVPs
+- Data analysis and dashboard projects
+- SQL and Python data validation workflows
+- LLM/RAG experiments
+- Automation tools for business processes
+
+### 💬 Ask me about
+
+Python, SQL, Power BI, healthcare data workflows, data validation, business analysis, AI agents, and turning ideas into useful MVPs.
+
+Always learning. Always building.
 -->
 
 
