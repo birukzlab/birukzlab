@@ -2,7 +2,7 @@
 
 My name is Biruk, and I’m a Business Intelligence / Business Analyst with a strong interest in AI, data products, and practical automation.
 
-I enjoy building tools that connect business needs with technical solutions — from gathering requirements and validating data to creating dashboards, testing workflows, and shipping small AI-powered applications.
+I enjoy building tools that connect business needs with technical solutions, from gathering requirements and validating data to creating dashboards, testing workflows, and shipping small AI-powered applications.
 
 ### 🔭 What I’m focused on
 
